@@ -1,5 +1,5 @@
 import unittest
-from translator import french_to_English, english_to_French
+from translator import french_to_english, english_to_french
 
 """Testing the method French to English"""
 class TestFtoE(unittest.TestCase): 
